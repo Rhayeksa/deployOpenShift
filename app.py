@@ -1,3 +1,3 @@
 import subprocess
 
-subprocess.run(["fastapi", "run"])
+subprocess.run(["pip", "install", "--upgrade", "pip"])
