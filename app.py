@@ -1,3 +1,3 @@
 import subprocess
 
-subprocess.run(["pip", "install", "--upgrade", "pip"])
+subprocess.run(["python", "-m", "pip", "install", "--upgrade", "pip"])
